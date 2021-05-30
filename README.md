@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/cnrad/cnrad/main/header.svg" alt="Hi there, I'm Conrad" />
 </h1>
 
-#### 16, aspiring full-stack TypeScript developer.
+### 16, aspiring full-stack TypeScript developer.
 
 - Frontend:
   - React/Next.js
