@@ -8,6 +8,7 @@
   - React/Next.js
   - styled-components (occasionally Tailwind)
   - In the past: HTML/CSS/JS
+  - Also learning: React Native
 
 - Backend (learning):
   - Node.js/Express
