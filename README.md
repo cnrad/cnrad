@@ -17,6 +17,7 @@
 - 🛠 Backend (learning):
   - Node.js/Express
   - Postgres + Prisma
+  - Redis
   - Docker
 
 \
