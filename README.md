@@ -6,7 +6,7 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695" align="right" />
 </a>
                                                                                    
-### 16, aspiring full-stack TypeScript developer.
+### 16, pursuing full-stack TypeScript development.
 
 - 🖥️ Frontend:
   - React/Next.js
