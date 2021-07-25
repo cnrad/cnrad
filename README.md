@@ -14,7 +14,7 @@
   - In the past: HTML/CSS/JS
 
 - 🛠 Backend (learning):
-  - Node/Express
+  - Node/Fastify
   - Postgres + Prisma
   - Redis
   - Docker
