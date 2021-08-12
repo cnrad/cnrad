@@ -3,7 +3,7 @@
 </h1>
 
 <a href="https://discord.com/users/705665813994012695">
-  <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695" align="right" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695?hideTimestamp=true" align="right" />
 </a>
                                                                                    
 ### 16, pursuing full-stack TypeScript development.
