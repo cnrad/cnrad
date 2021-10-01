@@ -21,4 +21,4 @@
 Learning Python for fun as well :)
 
 \
-[![Hits](https://hits.link/hits?url=https://github.com/cnrad&bg=575fff&label=visits&border=square)](https://hits.link)
+[![Hits](https://hits.link/hits?url=https://github.com/cnrad&bgRight=575fff&label=visits&border=square)](https://hits.link)
