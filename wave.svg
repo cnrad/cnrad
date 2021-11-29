@@ -1,6 +1,6 @@
-<svg fill="none" viewBox="0 0 37 37" width="37" height="37" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" height="37" width="250" viewBox="0 0 250 37">
 	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; flex-direction: row;">
 			<style>
 				@keyframes waveAnimation {
 				  0% {
@@ -27,13 +27,22 @@
 				}
 			
 	      			.wave {
+                                  width: 37px;
 				  -webkit-animation: waveAnimation 1.5s ease infinite;
 				  animation: waveAnimation 1.5s ease infinite;
 				}
+				.text {
+				   color: #fff;
+				   margin-top: 2px;
+				}
+				
 			</style>
 
 			<h1 class="wave">
 				👋              
+			</h1>
+			<h1 class="text">
+				Hey, I'm Conrad.          
 			</h1>
 		</div>
 	</foreignObject>
