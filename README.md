@@ -1,7 +1,4 @@
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/cnrad/cnrad/main/wave.svg" alt=":wave:" />
-  Hey, I'm Conrad.
-</h3>
+<img src="https://raw.githubusercontent.com/cnrad/cnrad/main/wave.svg" alt=":wave:" />
 
 16, pursuing full-stack TypeScript development.
 
