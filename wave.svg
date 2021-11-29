@@ -4,24 +4,24 @@
 			<style>
 				@keyframes waveAnimation {
 				  0% {
-				    transform: rotateZ(0deg) translate(-10%, -20%);
+				    transform: rotateZ(0deg) translate(-15%, -30%);
 				  }
 				  15% {
-				      transform: rotateZ(20deg) translate(-10%, -20%);
+				      transform: rotateZ(20deg) translate(-15%, -30%);
 				  }
 				  30% {
-				      transform: rotateZ(-10deg) translate(-10%, -20%);
+				      transform: rotateZ(-10deg) translate(-15%, -30%);
 				  }
 				  50% {
-				      transform: rotateZ(0deg) translate(-10%, -20%);
+				      transform: rotateZ(0deg) translate(-15%, -30%);
 				  }
 				  100% {
-				     transform: rotateZ(0deg) translate(-10%, -20%);
+				     transform: rotateZ(0deg) translate(-15%, -30%);
 				  }
 				}
 				
 				h1 {
-				  font-size: 1em;
+				  font-size: 1.3em;
 				  font-weight: 900;
           			  margin: 3px 0 0 0;
 				}
