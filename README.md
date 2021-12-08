@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/cnrad/cnrad/main/wave.svg" alt=":wave:" />
 
-16, pursuing full-stack TypeScript development.
+17, pursuing full-stack TypeScript development.
 
 ---
 
