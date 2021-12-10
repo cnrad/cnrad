@@ -19,7 +19,7 @@
   - Redis
   - Docker
 
-Learning Python for fun as well :)
+Learning Python and Go for fun as well :)
 
 \
 [![Hits](https://hits.link/hits?url=https://github.com/cnrad&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
