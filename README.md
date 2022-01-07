@@ -23,3 +23,5 @@ Learning Python and Go for fun as well :)
 
 \
 [![Hits](https://hits.link/hits?url=https://github.com/cnrad&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
+
+[![Sponsor Me](https://raw.githubusercontent.com/cnrad/cnrad/main/sponsor.svg)](https://sponsor.cnrad.dev)
