@@ -10,7 +10,7 @@
 
 - 🖥️ Frontend:
   - React/Next.js
-  - styled-components and/or TailwindCSS
+  - TailwindCSS
   - In the past: HTML/CSS/JS
 
 - 🛠 Backend:
