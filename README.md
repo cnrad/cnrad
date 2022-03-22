@@ -2,6 +2,8 @@
 
 17, pursuing full-stack TypeScript development.
 
+##### Creating the future at [Ayo](https://ayo.so) 😎
+
 ---
 
 <a href="https://discord.com/users/705665813994012695">
