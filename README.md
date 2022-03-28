@@ -21,7 +21,7 @@
   - Redis
   - Docker
 
-Learning/know a bit of Python, Go, and SwiftUI as well :)
+Learning/know a bit of Python, Go, and Swift as well :)
 
 \
 [![Sponsor Me](https://raw.githubusercontent.com/cnrad/cnrad/main/sponsor.svg)](https://sponsor.cnrad.dev)
