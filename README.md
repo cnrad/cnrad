@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/cnrad/cnrad/main/wave.svg" alt=":wave:" />
 
-17, pursuing full-stack TypeScript development.
+I'm a self-taught software engineer from the United States, who's currently pursuing full-stack web development to create stunning user experiences on the front-end, and scalable and secure infrastructure on the backend.
 
 ---
 
