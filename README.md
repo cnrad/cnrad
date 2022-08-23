@@ -9,12 +9,12 @@ I'm a self-taught software engineer from the United States, who's currently purs
 </a>
 
 - 🖥️ Frontend:
-  - React/Next.js
-  - TailwindCSS
+  - React / Next.js
+  - TailwindCSS / styled-components
   - In the past: HTML/CSS/JS
 
 - 🛠 Backend:
-  - Node/Fastify
+  - Node / Fastify
   - Postgres + Prisma
   - Redis
   - Docker
