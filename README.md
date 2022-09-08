@@ -19,7 +19,7 @@ I'm a self-taught software engineer from the United States, who's currently purs
   - Redis
   - Docker
 
-Learning/know a bit of Python, Go, and Swift as well :)
+Learning/know a bit of Python, Java, Go, and Swift as well :)
 
 \
 [![Sponsor Me](https://raw.githubusercontent.com/cnrad/cnrad/main/sponsor.svg)](https://sponsor.cnrad.dev)
