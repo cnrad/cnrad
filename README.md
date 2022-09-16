@@ -9,7 +9,7 @@ I'm a self-taught software engineer from the United States, who's currently purs
 </a>
 
 - 🖥️ Frontend:
-  - React / Next.js
+  - React / Next.js / Redux
   - TailwindCSS / styled-components
   - In the past: HTML/CSS/JS
 
