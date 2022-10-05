@@ -24,4 +24,4 @@ Learning/know a bit of Python, Java, Go, and Swift as well :)
 \
 [![Sponsor Me](https://raw.githubusercontent.com/cnrad/cnrad/main/sponsor.svg)](https://sponsor.cnrad.dev)
 
-[![Hits](https://hits.link/hits?url=https://github.com/cnrad&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
+[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/cnrad&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
