@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/83192247/197445341-1d59c937-003a-41a6-a181-1755ca440591.png)
 ---
 <a href="https://discord.com/users/705665813994012695">
-    <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695?borderRadius=6px&hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" width="372px"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695?borderRadius=6px&hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
 ```yaml
