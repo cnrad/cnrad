@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/83192247/197445341-1d59c937-003a-41a6-a181-1755ca440591.png)
+![github_banner_conrad](https://github.com/user-attachments/assets/04cdc0ab-bd74-40b0-afc8-c3795c5a198e)
 ---
 
 ```yaml
